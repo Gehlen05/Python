@@ -1,0 +1,14 @@
+[2021-07-05 11:54:49.703893] Info: Started process 
+[2021-07-05 11:54:49.703893] Info: Reading File Header 
+[2021-07-05 11:54:49.703893] Info: Reading Header Lote 
+[2021-07-05 11:54:49.703893] Info: Reading Registro de Detalhe 
+[2021-07-05 11:54:49.703893] Info: Reading Registro de Detalhe 
+[2021-07-05 11:54:49.703893] Info: Reading Registro de Detalhe 
+[2021-07-05 11:54:49.703893] Info: Reading Registro de Detalhe 
+[2021-07-05 11:54:49.703893] Info: Reading Registro de Detalhe 
+[2021-07-05 11:54:49.703893] Info: Reading Registro de Detalhe 
+[2021-07-05 11:54:49.703893] Info: Reading Trailer Lote 
+[2021-07-05 11:54:49.703893] Info: Reading Trailer de Arquivo 
+[2021-07-05 11:54:49.703893] Info: Started Report 
+[2021-07-05 11:54:49.703893] Info: Finish Report 
+[2021-07-05 11:54:49.703893] Info: End 
